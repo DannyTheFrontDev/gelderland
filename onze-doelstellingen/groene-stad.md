@@ -1,7 +1,7 @@
 ---
 title: Biodiversiteit
 image: biodiversity.jpg
-link: [herstel-veluwe-natuur](https://www.wur.nl/nl/onderzoek-resultaten/onderzoeksinstituten/environmental-research/programmas/biodiversiteit.htm)
+link: https://www.wur.nl/nl/onderzoek-resultaten/onderzoeksinstituten/environmental-research/programmas/biodiversiteit.htm
 footer1: Wageningen
 footer2: Environmental Research
 ---
