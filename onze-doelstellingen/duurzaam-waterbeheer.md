@@ -6,4 +6,4 @@ footer1: Wageningen
 footer2: Environmental Research
 ---
 
-Water is essential for life. We assume that water will never run out. But the world and the climate are changing. We increasingly realize that the value of water and the importance of sustainable water management are not sufficiently recognized. Researchers from Wageningen Environmental Research and academics from the Department of Environmental Sciences work together from different perspectives to improve the quality of life by optimizing water management for a clean, safe and healthy living environment.
+Water is onmisbaar voor leven. We gaan ervan uit dat water nooit op raakt. Maar de wereld en het klimaat veranderen. Steeds vaker beseffen we dat de waarde van water en het belang van duurzaam waterbeheer niet voldoende worden onderkend. Onderzoekers van Wageningen Environmental Research en academici van het departement Omgevingswetenschappen werken vanuit verschillende perspectieven samen aan het verbeteren van de kwaliteit van leven, door waterbeheer te optimaliseren voor een schone, veilige en gezonde leefomgeving.
